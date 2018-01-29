@@ -1,0 +1,3 @@
+﻿  Timer.cpp
+c:\users\shilo\source\repos\timer\project1\timer.cpp(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\Shilo\source\repos\timer\Debug\Timer.exe
